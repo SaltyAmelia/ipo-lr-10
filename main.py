@@ -1,3 +1,4 @@
+# Task 6 complete - импорт функций из collision
 from collision import collision as cl
 
 print("isCorrectRect([(-3.4, 1), (9.2, 10)]):", cl.isCorrectRect([(-3.4, 1), (9.2, 10)])) 
